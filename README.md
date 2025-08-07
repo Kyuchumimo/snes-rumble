@@ -40,10 +40,14 @@ This test ROM allows a variety of rumble effects to be "played" with a compatibl
 
 Download the test ROM here [RealityTest](https://github.com/LimitedRunGames-Tech/snes-rumble/raw/refs/heads/main/binaries/RT.SFC)
 
+## Castlevania (NES -> SNES) Port
+
+[Castlevania](https://archive.org/details/castlevania-snes/)
+
 ## Star Fox – Shindou Edition (SNES) Romhack
 
 [Star Fox Shindou](https://romhackplaza.org/romhacks/star-fox-shindou-edition-snes/)
 
-## Castlevania (NES -> SNES) Port
+## Super Mario Kart – Rumble Version (SNES) Romhack
 
-[Castlevania](https://archive.org/details/castlevania-snes)
+[Super Mario Kart](https://romhackplaza.org/romhacks/super-mario-kart-rumble-version-snes/)
