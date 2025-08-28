@@ -51,3 +51,7 @@ Download the test ROM here [RealityTest](https://github.com/LimitedRunGames-Tech
 ## Super Mario Kart – Rumble Version (SNES) Romhack
 
 [Super Mario Kart](https://romhackplaza.org/romhacks/super-mario-kart-rumble-version-snes/)
+
+## Mike Tyson's Punch Out!! SNES
+
+[Mike Tyson's Punch Out!! SNES](https://archive.org/details/mike-tysons-punch-out-snes_202508/)
